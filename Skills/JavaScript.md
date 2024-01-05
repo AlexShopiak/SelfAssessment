@@ -20,7 +20,7 @@
   - chaining:👂 heard
   - optional chaining
   - IIFE
-  - global: 🎓 known
+  - global: 🖐️ used
   - globalThis
   - window
   - getters and setters: 🖐️ used
@@ -32,7 +32,7 @@
   - ternary operator: 🙋 explained
   - void
   - yield:👂 heard
-  - await:👂 heard
+  - await: 🖐️ used
   - template literal
   - strict mode: 🖐️ used
   - delete
@@ -77,13 +77,13 @@
   - Proxy:👂 heard
   - weak collections:👂 heard
   - timers:👂 heard
-  - EventEmitter:👂 heard
+  - EventEmitter: 🎓 known
   - RegExp: 🖐️ used
   - Date: 🖐️ used
   - BigInt:👂 heard
 - Infrastructure
   - V8:👂 heard
-  - Node.js: 🎓 known
-  - npm: 🎓 known
-  - prettier: 🎓 known
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 🎓 known
