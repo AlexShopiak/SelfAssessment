@@ -3,8 +3,8 @@
 - Theory
   - Event loop: : 🎓 known
   - try..catch: 🖐️ used 
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
   - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
@@ -12,21 +12,21 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv:👂 heard
+  - libuv: 🎓 known
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming:👂 heard
   - Parallel programming:👂 heard
   - Actor Model
-  - Thread:👂 heard
-  - Process:👂 heard
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
   - Thenable: 🎓 known
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -67,7 +67,7 @@
   - Promise unhandled rejection
   - Promise double resolve
   - child_process:👂 heard
-  - worker_threads:👂 heard
+  - worker_threads: 🎓 known
   - Atomics
   - High resolution clock
   - Callback hell: 🎓 known
@@ -75,18 +75,18 @@
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await
-  - JSON: streaming serialization:👂 heard
+  - JSON: streaming serialization: 🖐️ used
   - promisify:👂 heard
   - callbackify:👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library:👂 heard
   - RxJS library
   - Async composition
   - Promise.all:👂 heard
   - Promise.allSettled
-  - Promise.race:👂 heard
+  - Promise.race: 🎓 known
   - Promise.any:👂 heard
   - Web Locks API
   - IPC
