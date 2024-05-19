@@ -2,8 +2,8 @@
 
 - Theory
   - Event loop: : 🎓 known
-  - try..catch: 🖐️ used 
-  - Non-blocking: 🖐️ used
+  - try..catch: 🙋 explained 
+  - Non-blocking: 🙋 explained
   - Async I/O: 🖐️ used
   - Thread pool: 🎓 known
   - Pattern Reactor
@@ -13,17 +13,17 @@
   - Completion ports
   - Event ports
   - libuv: 🎓 known
-  - Race conditions
-  - Dead locks
+  - Race conditions: 👂 heard
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming:👂 heard
-  - Parallel programming:👂 heard
+  - Parallel programming:🖐️ used
   - Actor Model
-  - Thread: 🎓 known
+  - Thread: 🖐️ used
   - Process: 🎓 known
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🎓 known
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
@@ -38,12 +38,12 @@
   - Signal
   - Stream:👂 heard
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware: 🙋 explained
+  - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify:👂 heard
-  - promisify:👂 heard
-  - asyncify:👂 heard
+  - callbackify:🎓 known
+  - promisify:🎓 known
+  - asyncify:🎓 known
   - callbacks compose
   - async compose
 - Async abstractions interfaces
@@ -55,12 +55,12 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 🎓 known
-  - setImmediate: 🎓 known
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
   - nextTick: 🎓 known
   - AbortController
   - AbortSignal
@@ -68,7 +68,7 @@
   - Promise double resolve
   - child_process:👂 heard
   - worker_threads: 🎓 known
-  - Atomics
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell
@@ -76,8 +76,8 @@
   - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON: streaming serialization: 🖐️ used
-  - promisify:👂 heard
-  - callbackify:👂 heard
+  - promisify:🎓 known
+  - callbackify:🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

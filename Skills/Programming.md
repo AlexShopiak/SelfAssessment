@@ -3,9 +3,9 @@
 - Syntax and concepts
   - value: 🖐️ used
   - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
   - literal: 🖐️ used
   - expression: 🖐️ used
   - heap: 🙋 explained
@@ -20,7 +20,7 @@
   - reference types: 🖐️ used
   - flag: 🖐️ used
   - lexical scope: 🖐️ used
-  - code block: 🖐️ used
+  - code block: 🙋 explained
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
@@ -35,7 +35,7 @@
   - parameter: 🖐️ used
   - pure function
   - lambda expression: 🖐️ used
-  - side effects: 🖐️ used
+  - side effects: 🙋 explained
   - closure: 🖐️ used
   - partial application
   - curry: 🖐️ used
@@ -66,12 +66,12 @@
   - linked list: 🙋 explained
   - doubly list: 🙋 explained
   - unrolled list
-  - circular list
+  - circular list: 🙋 explained
   - queue
   - stack: 🖐️ used
   - deque
   - tree: 🖐️ used
-  - graph
+  - graph: 🖐️ used
   - iterator
   - mutable state: 🖐️ used
   - immutable state: 🖐️ used
@@ -80,10 +80,10 @@
 - Process & style
   - compiler:👂 heard
   - transpiler
-  - linter
+  - linter: 🖐️ used
   - polyfill
   - debugger
-  - garbage collection
+  - garbage collection: 🎓 known
   - refactoring: 🙋 explained
   - code review: 🙋 explained
   - antipatterns: 🙋 explained
