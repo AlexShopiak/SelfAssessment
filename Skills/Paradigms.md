@@ -11,9 +11,9 @@
   - Object-based programming:👂 heard
   - Generic programming:👂 heard
   - Concurrent computing
-  - Asyncronous programming:👂 heard
-  - Parallel programming:👂 heard
-  - Reactive programming:👂 heard
+  - Asyncronous programming:🖐️ used
+  - Parallel programming:🖐️ used
+  - Reactive programming:🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
@@ -25,7 +25,7 @@
   - new: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method:👂 heard
+  - Async method:🖐️ used
   - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
@@ -36,7 +36,7 @@
   - Abstract class
   - Interface: 🖐️ used
   - Encapsulation
-  - Hidden class
+  - Hidden class 🖐️ used
   - Object form
   - instance: 🖐️ used
   - Introspection
