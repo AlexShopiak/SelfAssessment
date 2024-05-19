@@ -66,12 +66,12 @@
   - linked list: 🙋 explained
   - doubly list: 🙋 explained
   - unrolled list
-  - circular list 🙋 explained
+  - circular list: 🙋 explained
   - queue
   - stack: 🖐️ used
   - deque
   - tree: 🖐️ used
-  - graph 🖐️ used
+  - graph: 🖐️ used
   - iterator
   - mutable state: 🖐️ used
   - immutable state: 🖐️ used
@@ -80,10 +80,10 @@
 - Process & style
   - compiler:👂 heard
   - transpiler
-  - linter 🖐️ used
+  - linter: 🖐️ used
   - polyfill
   - debugger
-  - garbage collection 🎓 known
+  - garbage collection: 🎓 known
   - refactoring: 🙋 explained
   - code review: 🙋 explained
   - antipatterns: 🙋 explained
