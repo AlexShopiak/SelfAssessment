@@ -3,18 +3,18 @@
 - Language
   - Object: 🖐️ used
   - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
   - call:👂 heard
-  - bind:👂 heard
+  - bind:🖐️ used
   - apply:👂 heard
   - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
   - destructuring
-  - generator
-  - iterator
+  - generator 👂 heard
+  - iterator 👂 heard
   - async generator
   - async iterator
   - chaining:👂 heard
@@ -22,7 +22,7 @@
   - IIFE
   - global: 🖐️ used
   - globalThis
-  - window
+  - window 👂 heard
   - getters and setters: 🖐️ used
   - __proto__:👂 heard
   - prototype:👂 heard
@@ -30,7 +30,7 @@
   - logical operators: 🙋 explained
   - bitwise operators: 🙋 explained
   - ternary operator: 🙋 explained
-  - void
+  - void 🎓 known
   - yield:👂 heard
   - await: 🖐️ used
   - template literal
@@ -54,7 +54,7 @@
   - import: 🖐️ used
   - export: 🖐️ used
   - label
-  - try..catch: 🖐️ used
+  - try..catch: 🙋 explained
   - switch: 🖐️ used
   - class: 🙋 explained
   - new Error: 🖐️ used
@@ -70,20 +70,20 @@
   - mixin: 🎓 known
   - extend: 🖐️ used 
   - typed arrays
-  - Map: 🖐️ used 
-  - Set: 🖐️ used 
-  - undefined: 🖐️ used 
-  - null: 🖐️ used 
-  - Proxy:👂 heard
-  - weak collections:👂 heard
-  - timers:👂 heard
+  - Map: 🙋 explained 
+  - Set: 🙋 explained 
+  - undefined: 🙋 explained 
+  - null: 🙋 explained 
+  - Proxy:🎓 known
+  - weak collections:🎓 known
+  - timers:🖐️ used
   - EventEmitter: 🎓 known
   - RegExp: 🖐️ used
   - Date: 🖐️ used
-  - BigInt:👂 heard
+  - BigInt:🖐️ used
 - Infrastructure
   - V8:👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN: 🎓 known
+  - MDN: 🖐️ used
