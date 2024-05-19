@@ -2,8 +2,8 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers 🖐️ used
-  - Nonblocking I/O and slocking code 🎓 known
+  - Stateful and stateless servers: 🖐️ used
+  - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases:👂 heard
   - Event loop: microtasks and macrotasks:👂 heard
   - Garbage collection:👂 heard
@@ -11,11 +11,11 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 👂 heard
-  - ECMAScript modules 👂 heard
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
   - node:module :👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons 👂 heard
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
@@ -24,10 +24,10 @@
   - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach 👂 heard
+  - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐️ used
-  - Node.js CLI 🎓 known
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -36,10 +36,10 @@
   - Streams API
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API
   - File system API: sync and async: 🖐️ used
-  - Copy folder recursively 🖐️ used
+  - Copy folder recursively: 🖐️ used
   - Worker threads:👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -50,11 +50,11 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads 👂 heard
-  - node:child_process 👂 heard
+  - node:worker_threads : 👂 heard
+  - node:child_process : 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID 🙋 explained
+  - Generating crypto random UUID: 🙋 explained
   - node:url vs new URL :👂 heard
   - node:assert :👂 heard
   - Internationalization
@@ -65,13 +65,13 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control :🖐️ used
-  - Dependency injection 🖐️ used
+  - Dependency injection: 🖐️ used
   - GRASP :👂 heard
   - SOLID :👂 heard
   - GoF patterns :👂 heard
   - Distributed systems
   - Highload applications
-  - Clean architecture 👂 heard
+  - Clean architecture: 👂 heard
   - DDD
   - Message Queue
   - CQS
@@ -81,28 +81,28 @@
   - Serverless clouds
   - FaaS clouds
   - Fat controller
-  - GoF for Node.js 👂 heard
+  - GoF for Node.js: 👂 heard
   - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 🖐️ used
-  - TCP/SSL 🖐️ used
-  - UDP 🖐️ used
-  - TLS 🖐️ used
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
   - Websocket :👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST 🖐️ used
+  - REST: 🖐️ used
   - RPC
   - Routing
-  - DoS 👂 heard
-  - DDoS 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS 📢 talked
+  - DNS: 📢 talked
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -117,13 +117,13 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable :👂 heard
   - Writable :👂 heard
   - Transform
   - back pressure
   - Buffer :👂 heard
-  - Console 🖐️ used
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,7 +131,7 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository 🖐️ used
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -140,14 +140,14 @@
   - error.cause
   - error.code
   - error.message: 🖐️ used
-  - error.stack 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks 👂 heard
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -165,6 +165,6 @@
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory 🙋 explained
+  - Shared memory: 🙋 explained
   - SharedArrayBuffer
   - V8 binary serialization
