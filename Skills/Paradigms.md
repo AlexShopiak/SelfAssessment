@@ -36,7 +36,7 @@
   - Abstract class
   - Interface: 🖐️ used
   - Encapsulation
-  - Hidden class 🖐️ used
+  - Hidden class: 🖐️ used
   - Object form
   - instance: 🖐️ used
   - Introspection
