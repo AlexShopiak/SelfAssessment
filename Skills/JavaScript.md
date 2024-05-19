@@ -13,8 +13,8 @@
   - ...rest: 🙋 explained
   - typeof: 🙋 explained
   - destructuring
-  - generator 👂 heard
-  - iterator 👂 heard
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining:👂 heard
@@ -22,7 +22,7 @@
   - IIFE
   - global: 🖐️ used
   - globalThis
-  - window 👂 heard
+  - window: 👂 heard
   - getters and setters: 🖐️ used
   - __proto__:👂 heard
   - prototype:👂 heard
@@ -30,7 +30,7 @@
   - logical operators: 🙋 explained
   - bitwise operators: 🙋 explained
   - ternary operator: 🙋 explained
-  - void 🎓 known
+  - void: 🎓 known
   - yield:👂 heard
   - await: 🖐️ used
   - template literal
