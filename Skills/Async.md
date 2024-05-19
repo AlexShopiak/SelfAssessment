@@ -13,8 +13,8 @@
   - Completion ports
   - Event ports
   - libuv: 🎓 known
-  - Race conditions 👂 heard
-  - Dead locks 👂 heard
+  - Race conditions: 👂 heard
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming:👂 heard
   - Parallel programming:🖐️ used
@@ -38,8 +38,8 @@
   - Signal
   - Stream:👂 heard
   - Chain of responsibility
-  - Middleware 🙋 explained
-  - Locks 🖐️ used
+  - Middleware: 🙋 explained
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify:🎓 known
   - promisify:🎓 known
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore 🖐️ used
-  - Mutex 🖐️ used
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
@@ -68,7 +68,7 @@
   - Promise double resolve
   - child_process:👂 heard
   - worker_threads: 🎓 known
-  - Atomics 🖐️ used
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell
